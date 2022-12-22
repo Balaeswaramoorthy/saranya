@@ -25,6 +25,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 1em;
+  margin-top: 5%;
   overflow: hidden;
 }
 
@@ -44,7 +45,7 @@ body {
     flex-direction: row-reverse;
   }
   .card img.birthday {
-    width: 70%;
+    width: 100%;
     max-width: 50vw;
     max-height: unset;
   }
